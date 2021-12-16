@@ -38,5 +38,5 @@
 
 * get all products - GET [/product](http://localhost:8080/product) to get a list of all the products
 * get specific product - GET [/product/${id}](http://localhost:8080/product/1) to get a specific product
-* add product - POST JSON to [/product](http://localhost:8080/ride) to create a new product 
+* add product - POST JSON to [/product](http://localhost:8080/product) to create a new product 
  
